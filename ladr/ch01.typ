@@ -1,5 +1,5 @@
-#import "../libs.typ": *
-#import "syms.typ": *
+#import "../../libs.typ": *
+#import "../syms.typ": *
 
 #show: ilm.with(
   title: [Linear Algebra],
